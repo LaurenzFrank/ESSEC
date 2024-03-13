@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&family=Roboto:wght@100;300;700;900&display=swap" rel="stylesheet">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+		<meta name="description" content="Welcome to my profile!">
+		<title>Profile of Laurenz Frank</title>
+		<script src="https://kit.fontawesome.com/cabebcdd29.js" crossorigin="anonymous"></script>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+
+	<body>
+		<div class="container" id="intro">
+			<div class="card-white">
+				<h1>Hello, I am Laurenz Frank.</h1>
+	    		<div class="image-container">
+  				<img src="tete.jpg" alt="That's me">
+  				</div>
+	    		<h3>I am Austrian and went to high school at the American International School of Vienna. I am currently a bachelor's student at ESSEC Business School in Cergy.</h3>
+				<a href="https://www.essec.edu/en/program/global-bba/global-bba-international/" target="_blank" class="btn-blue">Essec BBA
+				</a>
+			</div>
+
+			<div class="card-white">
+				<h2>I love playing tennis.</h2>
+				<h3>
+				I often play in the south of france, especiall in the summer.
+				</h3>			
+			</div>
+
+			<div class="card-white">
+				<h2>I love playing chess.</h2>
+				<h3>
+				I was the president of the chess club in my old school.
+				</h3>
+			</div>
+
+			<div class="card-white">
+				<h2>I love playing the piano!</h2>
+				<h3>
+				I was part of the honor choir in my old school. 
+				</h3>
+			</div>
+
+			<div class="card-white">
+				<h2>Please follow me on my LinkedIn</h2>
+				<ul clas="list-inline">
+					<li>
+						<a href="https://fr.linkedin.com/in/laurenz-frank-8916b5219" target="_blank">
+							<i class="fa-brands fa-linkedin"></i>
+						</a>
+					</li>
+					<li>
+						<a href="https://fr.linkedin.com/in/laurenz-frank-8916b5219" target="_blank">
+							<i class="fa-brands fa-linkedin"></i>
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+	</body>
+
+</html>
